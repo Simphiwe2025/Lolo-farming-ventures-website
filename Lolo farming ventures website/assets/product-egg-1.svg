@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <rect width="100%" height="100%" fill="#fff8ef"/>
+  <g opacity="0.12" fill="#e29e43">
+    <ellipse cx="150" cy="200" rx="140" ry="100" />
+    <ellipse cx="400" cy="120" rx="160" ry="120" />
+    <ellipse cx="600" cy="320" rx="120" ry="90" />
+  </g>
+  <circle cx="220" cy="360" r="80" fill="#f4a261" opacity="0.09" />
+  <g transform="translate(420,260)" fill="#ffd" opacity="0.9">
+    <path d="M30 0 C50 0 60 20 60 40 C60 80 30 120 0 120 C-30 120 -60 80 -60 40 C-60 20 -50 0 -30 0 C-10 0 10 0 30 0 Z" fill="#fff" opacity="0.22"/>
+  </g>
+</svg>

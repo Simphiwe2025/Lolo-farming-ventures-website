@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <rect width="100%" height="100%" fill="#fff7e6"/>
+  <g opacity="0.12" fill="#ffd700">
+    <ellipse cx="200" cy="160" rx="150" ry="110" />
+    <ellipse cx="520" cy="240" rx="180" ry="140" />
+  </g>
+  <g fill="#e29e43" opacity="0.08">
+    <path d="M0 400 C140 320 260 420 460 360 C680 300 800 380 800 600 L0 600 Z"/>
+  </g>
+</svg>
